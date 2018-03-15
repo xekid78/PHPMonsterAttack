@@ -1,0 +1,2 @@
+# PHPMonsterAttack
+クラスでモンスターへの攻撃
